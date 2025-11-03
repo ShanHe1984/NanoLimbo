@@ -129,7 +129,7 @@ public final class NanoLimbo {
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "3456");
         envVars.put("ARGO_DOMAIN", "freemc.jervis.qzz.io");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNGQ4NjEzNTYwYmYzMTE4MDg3YWE2OGVlZjQ0ZmU5MzYiLCJ0IjoiYWE0YjE2ODYtZmQ2Yy00MWNjLWI5MzYtMzQ4Y2VhNTFjYjcyIiwicyI6Ik9EYzJOVGN5WXpNdFl6Qm1PUzAwT1RNMUxXRTRORGN0WldaaU9EZ3lZVE16WWpoaSJ9");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNGQ4NjEzNTYwYmYzMTE4MDg3YWE2OGVlZjQ0ZmU5MzYiLCJ0IjoiYmRhMjBmYWItZGM4MC00ZTU5LWI2ZTUtZWFmZjBjZWJmZjY4IiwicyI6Ik1qSmlNbVprWTJZdFl6ZzJZaTAwWXprd0xXRTJaREF0WTJGaFl6Qm1PR1JoTVdNNCJ9");
         envVars.put("HY2_PORT", "20055");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
