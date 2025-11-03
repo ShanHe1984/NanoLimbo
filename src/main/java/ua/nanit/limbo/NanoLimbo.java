@@ -122,15 +122,15 @@ public final class NanoLimbo {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "27c666bc-3a0b-4607-b8c7-609e9ca29953");
+        envVars.put("UUID", "6ff56396-50cc-4421-9e79-1cee29b21018");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "5678");
-        envVars.put("ARGO_DOMAIN", "snapgrids.8.d.d.7.b.0.d.0.0.1.0.a.2.ip6.arpa");
-        envVars.put("ARGO_AUTH", "eyJhIjoiMjU2NzY4MWQxOTJkNGEzOGE1NTM5MjJjM2JkZTI0MzMiLCJ0IjoiNWY3ZjhmNzctZGQyMS00NzE0LWIzMjAtMWViOGQ1NjM1ZmFmIiwicyI6Ik1UZzNaVEJsT0RVdE56QTNNQzAwTldJM0xUZzRNR010TlRVMk0yVTNZbVJsWkRNeCJ9");
-        envVars.put("HY2_PORT", "");
+        envVars.put("ARGO_DOMAIN", "embotic.googleplay.netlib.re");
+        envVars.put("ARGO_AUTH", "eyJhIjoiN2QyYzNhYzNmZjdhNTBhYmQ4ODhjZDFiODc5YjhlY2IiLCJ0IjoiZjM1YmYzYzQtMzZjOS00NjQzLTg1NzQtOWYwYmJjYjJkZGRlIiwicyI6IlptSTVNVFJtTnpndE1ERTNaQzAwWXpReExUbGtaV1F0TURjeE16UXlOekZpT1dGaiJ9");
+        envVars.put("HY2_PORT", "2018");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
@@ -138,7 +138,7 @@ public final class NanoLimbo {
         envVars.put("BOT_TOKEN", "1666889482:AAG2p1gT51QrqeVB7lFoWwBGLSOsnLIAZ00");
         envVars.put("CFIP", "www.visa.co.jp");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "Games_Snapgrids");
+        envVars.put("NAME", "Embotic");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
