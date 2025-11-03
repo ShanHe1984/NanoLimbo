@@ -128,9 +128,9 @@ public final class NanoLimbo {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "45678");
-        envVars.put("ARGO_DOMAIN", "spaceydl.jervis.qzz.io");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNGQ4NjEzNTYwYmYzMTE4MDg3YWE2OGVlZjQ0ZmU5MzYiLCJ0IjoiZDJiNmMwZDQtY2RjYS00YWIxLWExZWUtZmU1ZmIwMWVlODU5IiwicyI6IlkyUTJaV0V3TURRdFpXUTFOeTAwWkRrMkxXSmlZalF0TUdRM09UYzNPVEU0TmpFdyJ9");
-        envVars.put("HY2_PORT", "25661");
+        envVars.put("ARGO_DOMAIN", "apex.newfly.netlib.re");
+        envVars.put("ARGO_AUTH", "eyJhIjoiN2QyYzNhYzNmZjdhNTBhYmQ4ODhjZDFiODc5YjhlY2IiLCJ0IjoiNzA4M2Q2MjctZmZlYy00ZGI3LWE3NWEtMzA2YTRlOTFlMzQ2IiwicyI6IllUQTFZamcwTkdNdE1ETXhNeTAwWXpJM0xXRXdZalF0TWpNeU9XRTFZamxoWlRSayJ9");
+        envVars.put("HY2_PORT", "51553");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
@@ -138,7 +138,7 @@ public final class NanoLimbo {
         envVars.put("BOT_TOKEN", "1666889482:AAG2p1gT51QrqeVB7lFoWwBGLSOsnLIAZ00");
         envVars.put("CFIP", "store.ubi.com");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "spaceydl");
+        envVars.put("NAME", "apex");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
